@@ -12,7 +12,7 @@ body {
     scroll-behavior: smooth;
     height: 100%;
     margin: 0;
-    /* background: #1c1829; */
+    /* background: #101e2a; */
 }
 
 body {
@@ -204,6 +204,7 @@ h3 {
 }
 
 .skillsContainer li {
+    background: white;
     list-style: none;
     /* opacity: 0; */
     display: flex;

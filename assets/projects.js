@@ -1,4 +1,29 @@
 export default [
+
+  {
+    title: "Blog APIs",
+    description:
+      "The Blog APIs is built using Spring Boot, Spring MVC, Spring Data JPA, Hibernate, MySQL, Spring Security, and MySQL database. The application is designed to manage posts, post category, and comments.",
+    image: "assets/api.png",
+    github: "https://github.com/JestherCostinar/blog-app-api",
+    live: "https://github.com/JestherCostinar/blog-app-api",
+  },
+  {
+    title: "Job Listing Management System",
+    description:
+      "The job listing management system is a web application built using Spring Boot, Spring MVC, Spring Data JPA, Hibernate, MySQL, Thymeleaf, Spring Security, and MySQL database. The application is designed to manage user information and facilitate job listing functionalities.",
+    image: "assets/job-listing.png",
+    github: "https://github.com/JestherCostinar/job-listing-management-system",
+    live: "https://github.com/JestherCostinar/job-listing-management-system",
+  },
+  {
+    title: "TODO Management Restful API",
+    description:
+      "Spring boot Restful Web API for Todo Management System using Spring Boot, Spring MVC, Spring Security, JPA/Hibernate, MySQL for the database",
+    image: "assets/api.png",
+    github: "https://github.com/JestherCostinar/todo-management-system",
+    live: "https://github.com/JestherCostinar/todo-management-system",
+  },
   {
     title: "Kasect",
     description:
